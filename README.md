@@ -23,7 +23,7 @@ Pour cela seront analysés le trafic du site, l'évolution des profils utilisate
 
 ## Outils utilisés
 
-- Python (numpy, pandas, matplotlib) : préparation, nettoyage des données et pré-analyse
+- Python : préparation et nettoyage des données
 - Power BI : analyse, modélisation, visualisation
 
 
@@ -36,3 +36,5 @@ Avant l’analyse, les données ont été préparées afin de garantir leur coh�
 
 Cette étape a été réalisée à l’aide d'un script Python (voir python - nettoyage_df.py)
 
+
+Mise à jour du projet prochainement.
